@@ -1,4 +1,11 @@
-set -o errexit # exit on error
+#!/usr/bin/env bash
+set -o errexit  # Exit on error
+
+# Install dependencies
 pip install -r requirements.txt
-python manage.py collectstatic --no-input 
+
+# Collect static files
+python manage.py collectstatic --no-input
+
+# Apply migrations
 python manage.py migrate
