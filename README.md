@@ -17,17 +17,17 @@ A Django REST API for managing restaurant operations including menu items, categ
 
 - Dashboard :
   * Header :
-    ![Header](docs/screenshots/header.png)
+    ![Header](docs/screenchots/header.png)
   * Menu items :
-    ![Menu Items](docs/screenshots/MenuItems.png)
+    ![Menu Items](docs/screenchots/MenuItems.png)
   * Footer
-    ![Footer](docs/screenshots/footer.png)
-- Login Popup:
-  ![Login](docs/screenshots/login.png)
+    ![Footer](docs/screenchots/footer.png)
+- SignUp Popup:
+  ![Login](docs/screenchots/login.png)
 - Cart :
-  ![Cart](docs/screenshots/cart.png)
+  ![Cart](docs/screenchots/cart.png)
 - Delivery Page :
-  ![del](docs/screenshots/del.png)
+  ![del](docs/screenchots/del.png)
 
 
 
